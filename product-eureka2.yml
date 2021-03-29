@@ -1,0 +1,9 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: eureka2
+info:
+  author: fox
+  email: 2224066978@qq.com
