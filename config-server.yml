@@ -18,4 +18,4 @@ spring:
           basedir: ./git
           uri: https://github.com/ignisfox/resp.git
           username: ignisfox
-          password: !maifuxin199708
+          password: "!maifuxin199708"
